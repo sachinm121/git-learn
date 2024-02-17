@@ -14,3 +14,4 @@ Hospital management system
 
 ## Skills
 - C, C++, Java
+- HTML, CSS, React

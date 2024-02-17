@@ -11,3 +11,6 @@ Hospital management system
 ## Education
 - MCA from NIT Jamshedpur
 - BCA from Raja Blwant Singh College, Agra
+
+## Skills
+- C, C++, Java
